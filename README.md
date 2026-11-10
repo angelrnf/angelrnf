@@ -1,16 +1,13 @@
 ## Hi there 👋
+I am a Spanish Computer Science student with an interest in AI systems
 
-<!--
-**angelrnf/angelrnf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  <li>🎓 BSc in Computer Science at University of Cádiz (2025 - Present)</li>
+  <li>🌱 Currently learning:<ul>
+      <li><strong>Programming:</strong> C/C++, Python, HTML, JS</li>
+      <li><strong>AI:</strong> API integration, connecting LLMs to custom data</li>
+    </ul>
+  </li>
+</ul> 
+## 📫 Connect with me
+* [LinkedIn](https://www.linkedin.com/in/angelrnf)
